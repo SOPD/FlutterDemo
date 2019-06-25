@@ -11,4 +11,5 @@
 8. socket ,http数据交互,解析 
 9. protobuf使用 
 
-![picture1](https://raw.githubusercontent.com/SOPD/FlutterAPPDemo/master/READMEIMAGES/Flutter.gif)
+![picture1](https://github.com/SOPD/FlutterDemo/blob/master/READMEIMAGES/Flutter.gif?raw=true)
+>注  项目是无法直接运行的   网络资源请自己添加假数据或者找一个接口
